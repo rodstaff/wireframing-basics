@@ -1,2 +1,1 @@
-# wireframing-basics
-Wireframing Basics
+# Wireframing Basics
