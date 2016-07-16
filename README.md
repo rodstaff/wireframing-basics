@@ -1,5 +1,4 @@
 # Wireframing Basics
-.
 >*To begin you will want to fork a copy of this repository and pull it down to your local machine.*
 
 #### A Quick Review
